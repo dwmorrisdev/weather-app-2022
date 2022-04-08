@@ -1,0 +1,24 @@
+.appbar {
+  background-color: 'black';
+}
+.toolbar {
+  justify-content: space-between;
+}
+.navlinks {
+  margin-left: 4rem;
+  display: flex;
+}
+.logo {
+  flex-grow: 1;
+  cursor: pointer;
+}
+.link {
+  text-decoration: "none";
+  color: "white";
+  font-size: "20px";
+  margin-left: 2rem;
+}
+.link:hover {
+  color: "yellow";
+  border-bottom: "1px solid white";
+}

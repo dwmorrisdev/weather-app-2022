@@ -1,0 +1,27 @@
+.contact {
+  min-height: 45rem;
+  max-height: 70rem;
+  max-width: 1850px;
+  justify-content: center;
+}
+.container {
+  max-width: 100rem;
+  padding: 0 1rem;
+}
+.header {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.developer {
+  justify-content: center;
+  align-items: center;
+}
+.devInfo {
+  margin-left: .5rem !important;
+}
+.button {
+  margin: 1rem 80% !important;
+}
+.bottomSpacing {
+  margin-bottom: 2rem !important;
+}
